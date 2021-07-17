@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Mariem Souissi
-- 👀 I’m interested in DataScience.
-- 📫 How to reach me :
-https://www.linkedin.com/in/mariem-souissi-11b3531b6/
-
+                            Hi, I'm Mariem SOUISSI! 👋
+                            🔥 22 years old software engineering student at ESPRIT grinding hard to make something cool
+                            👀 I’m interested in DataScience and Financial informatics.
+                            ✨ Favorite Tech: Python, R, JavaScript ...
+                            📫 How to reach me :
+                                ✉️ mariem.souissi1@esprit.tn / mariem.souissi1@ieee.org / souissimariem111@gmail.com
+                                💼 Linkedin: https://www.linkedin.com/in/mariem-souissi-11b3531b6/
 
 
 <!---
