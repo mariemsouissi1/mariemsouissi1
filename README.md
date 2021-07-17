@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariemsouissi1
+- 👋 Hi, I’m Mariem Souissi
 - 👀 I’m interested in DataScience.
 - 📫 How to reach me :
 https://www.linkedin.com/in/mariem-souissi-11b3531b6/
