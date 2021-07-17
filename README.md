@@ -1,5 +1,5 @@
                             Hi, I'm Mariem SOUISSI! 👋
-                            🔥 22 years old software engineering student at ESPRIT grinding hard to make something cool
+                            🔥 22 years old software engineering student at ESPRIT 
                             👀 I’m interested in DataScience and Financial informatics.
                             ✨ Favorite Tech: Python, R, JavaScript ...
                             📫 How to reach me :
